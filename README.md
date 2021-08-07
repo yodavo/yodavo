@@ -1,8 +1,8 @@
 ### Hello, I'm David! 👋
 --- 
 
-- 🧠 I’m interested in Bioinformatics and Deep Learning.
-- 🔭 I’m currently working on Data Analysis & Machine Learning.
+- 🧠 I’m interested in Bioinformatics and AI.
+- 🔭 I’m currently working on Data Analysis, Machine Learning & Deep Learning.
 - 🌱 I’m currently learning Julia and Javascript.
 - 👯 I’m looking to collaborate on sexual gene expresion or COVID19 projects. :)
 - 💬 Ask me about: R, python, SQL or anything related to biology.
