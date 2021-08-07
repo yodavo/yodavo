@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello, I'm David! 👋
+--- 
 
-<!--
-**yodavo/yodavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 I’m interested in Bioinformatics and Deep Learning.
+- 🔭 I’m currently working on Data Analysis & Machine Learning.
+- 🌱 I’m currently learning Julia and Javascript.
+- 👯 I’m looking to collaborate on sexual gene expresion or COVID19 projects. :)
+- 💬 Ask me about: R, python, SQL or anything related to biology.
+- 📫 How to reach me: connect with me on [Twitter](https://twitter.com/yooodavo) or [LinkedIn](www.linkedin.com/in/yooodavo).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I also work with Biodiversity, specially with hummingbirds.
